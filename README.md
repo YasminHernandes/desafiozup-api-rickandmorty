@@ -2,4 +2,4 @@
 
 ## Resultado
 
-![](https://github.com/yasminhernandes/desafiozup-api-rickandmorty/screenshot/screenshot.png)
+![](https://github.com/yasminhernandes/desafiozup-api-rickandmorty/blob/main/screenshot/screenshot.png)
